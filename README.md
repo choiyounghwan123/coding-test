@@ -17,7 +17,7 @@
 | 1436 | 영화감독 숌 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1436)|
 | 1546 | 평균 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1546)|
 | 1654 | 랜선 자르기 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1654)|
-| 1676 | 팩토리얼 0의 개수 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1676)|
+| 1676 | 팩토리얼 0의 개수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1676)|
 | 1874 | 스택 수열 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1874)|
 | 1920 | 수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1920)|
 | 1929 | 소수 구하기 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1929)|
