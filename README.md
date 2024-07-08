@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1904190)](https://solved.ac/kmj1904190/)
 
-**백준알고리즘 문제풀이 기록**
+**Coding Test Study Record**
 
 | No. | Problem Name         | Status | Difficulty | Link                                |
 |------|------------------|-----------|--------|-----------------------------------|
@@ -69,5 +69,7 @@
 | 30802 | 웰컴키트 | Solved| Class II| [Link](https://www.acmicpc.net/problem/30802)|
 | 31403 | A+B-C | Solved| Class I| [Link](https://www.acmicpc.net/problem/31403)|
 
-
+## Study Resources
+- **Baekjoon Online Judge: A comprehensive platform with a variety of coding problems.
+ - **Websites**: GeeksforGeeks, Stack Overflow.
 
