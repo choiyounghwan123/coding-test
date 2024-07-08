@@ -70,6 +70,6 @@
 | 31403 | A+B-C | Solved| Class I| [Link](https://www.acmicpc.net/problem/31403)|
 
 ## Study Resources
-- **Baekjoon Online Judge: A comprehensive platform with a variety of coding problems.
+- **Baekjoon Online Judge**: A comprehensive platform with a variety of coding problems.
  - **Websites**: GeeksforGeeks, Stack Overflow.
 
