@@ -9,6 +9,7 @@
 | 1000 | A+B | Solved | Class I | [Link](https://www.acmicpc.net/problem/1000) |
 | 1001 | A-B | Solved| Class I| [Link](https://www.acmicpc.net/problem/1001)|
 | 1008 | A/B | Solved| Class I| [Link](https://www.acmicpc.net/problem/1008)|
+| 1018 | 체스판 다시 칠하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1018)|
 | 1152 | 단어의 개수 | Solved| Class I| [Link](https://www.acmicpc.net/problem/1152)|
 | 1181 | 단어 정렬 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1181)|
 | 1259 | 팰린드롬수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1259)|
