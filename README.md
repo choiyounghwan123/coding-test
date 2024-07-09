@@ -13,17 +13,17 @@
 | 1152 | 단어의 개수 | Solved| Class I| [Link](https://www.acmicpc.net/problem/1152)|
 | 1181 | 단어 정렬 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1181)|
 | 1259 | 팰린드롬수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1259)|
-| 1330 | 두 수 비교하기 | Unsolved| Class I| [Link](https://www.acmicpc.net/problem/1330)|
+| 1330 | 두 수 비교하기 | Solved| Class I| [Link](https://www.acmicpc.net/problem/1330)|
 | 1436 | 영화감독 숌 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1436)|
 | 1546 | 평균 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1546)|
 | 1654 | 랜선 자르기 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1654)|
 | 1676 | 팩토리얼 0의 개수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1676)|
 | 1874 | 스택 수열 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1874)|
 | 1920 | 수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1920)|
-| 1929 | 소수 구하기 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1929)|
-| 1966 | 프린터 큐 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1966)|
+| 1929 | 소수 구하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1929)|
+| 1966 | 프린터 큐 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1966)|
 | 1978 | 소수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1978)|
-| 2108 | 통계학 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/2108)|
+| 2108 | 통계학 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2108)|
 | 2164 | 카드2 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2164)|
 | 2231 | 분해합 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2231)|
 | 2292 | 벌집 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2292)|
@@ -41,14 +41,14 @@
 | 2753 | 윤년 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2753)|
 | 2775 | 부회장이 될테야 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2775)|
 | 2798 | 블랙잭 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2798)|
-| 2839 | 설탕 배달 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/2839)|
+| 2839 | 설탕 배달 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2839)|
 | 2869 | 달팽이는 올라가고 싶다. | Solved| Class II| [Link](https://www.acmicpc.net/problem/2869)|
 | 2884 | 알람 시계 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2884)|
 | 2920 | 음계 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2920)|
 | 3052 | 나머지 | Solved| Class I| [Link](https://www.acmicpc.net/problem/3052)|
 | 4153 | 직각삼각형 | Solved| Class II| [Link](https://www.acmicpc.net/problem/4153)|
-| 4949 | 균형잡힌 세상 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/4949)|
-| 7568 | 덩치 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/7568)|
+| 4949 | 균형잡힌 세상 | Solved| Class II| [Link](https://www.acmicpc.net/problem/4949)|
+| 7568 | 덩치 | Solved| Class II| [Link](https://www.acmicpc.net/problem/7568)|
 | 8958 | OX퀴즈 | Solved| Class I| [Link](https://www.acmicpc.net/problem/8958)|
 | 9012 | 괄호 | Solved| Class II| [Link](https://www.acmicpc.net/problem/9012)|
 | 9498 | 시험 성적 | Solved| Class I| [Link](https://www.acmicpc.net/problem/9498)|
@@ -71,10 +71,10 @@
 | 10998 | A X B | Solved| Class I| [Link](https://www.acmicpc.net/problem/10998)|
 | 11050 | 이항 계수 1 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11050)|
 | 11650 | 좌표 정렬하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11650)|
-| 11651 | 좌표 정렬하기2 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/11651)|
+| 11651 | 좌표 정렬하기2 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11651)|
 | 11654 | 아스키코드 | Solved| Class I| [Link](https://www.acmicpc.net/problem/11654)|
 | 11720 | 숫자의 합 | Solved| Class I| [Link](https://www.acmicpc.net/problem/11720)|
-| 18110 | solved.ac | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/18110)|
+| 18110 | solved.ac | Solved| Class II| [Link](https://www.acmicpc.net/problem/18110)|
 | 11866 | 요세푸스 문제 0 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11866)|
 | 15829 | Hashing | Solved| Class II| [Link](https://www.acmicpc.net/problem/15829)|
 | 25083 | 새싹 | Solved| Class I| [Link](https://www.acmicpc.net/problem/25083)|
