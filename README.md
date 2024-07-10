@@ -8,7 +8,7 @@
 |------|------------------|-----------|--------|-----------------------------------|
 | 1000 | A+B | Solved | Class I | [Link](https://www.acmicpc.net/problem/1000) |
 | 1001 | A-B | Solved| Class I| [Link](https://www.acmicpc.net/problem/1001)|
-| 1003 | 피보나치 함수 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1003)|
+| 1003 | 피보나치 함수 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1003)|
 | 1008 | A/B | Solved| Class I| [Link](https://www.acmicpc.net/problem/1008)|
 | 1012 | 유기농 배추 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1012)|
 | 1018 | 체스판 다시 칠하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1018)|
@@ -23,12 +23,12 @@
 | 1463 | 1로 만들기 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1463)|
 | 1541 | 잃어버린 괄호 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1541)|
 | 1546 | 평균 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1546)|
-| 1620 | 나는야 포켓몬 마스터 이다솜 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1620)|
-| 1654 | 랜선 자르기 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1654)|
+| 1620 | 나는야 포켓몬 마스터 이다솜 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1620)|
+| 1654 | 랜선 자르기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1654)|
 | 1676 | 숨바꼭질 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1676)|
 | 1697 | 나는야 포켓몬 마스터 이다솜 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1697)|
 | 1764 | 듣보잡 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1764)|
-| 1874 | 스택 수열 | Unsolved| Class II| [Link](https://www.acmicpc.net/problem/1874)|
+| 1874 | 스택 수열 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1874)|
 | 1920 | 수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1920)|
 | 1927 | 최소 힙 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1927)|
 | 1929 | 소수 구하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1929)|
@@ -78,7 +78,7 @@
 | 10171 | 고양이 | Solved| Class I| [Link](https://www.acmicpc.net/problem/10171)|
 | 10172 | 개 | Solved| Class I| [Link](https://www.acmicpc.net/problem/10172)|
 | 10250 | ACM호텔 | Solved| Class I| [Link](https://www.acmicpc.net/problem/10250)|
-| 10773 | 제로 | UnSolved| Class II| [Link](https://www.acmicpc.net/problem/10773)|
+| 10773 | 제로 | Solved| Class II| [Link](https://www.acmicpc.net/problem/10773)|
 | 10809 | 알파벳 찾기 | Solved| Class I| [Link](https://www.acmicpc.net/problem/10809)|
 | 10814 | 나이순 정렬 | Solved| Class II| [Link](https://www.acmicpc.net/problem/10814)|
 | 10816 | 숫자 카드 2 | Solved| Class II| [Link](https://www.acmicpc.net/problem/10816)|
@@ -103,7 +103,7 @@
 | 11654 | 아스키코드 | Solved| Class I| [Link](https://www.acmicpc.net/problem/11654)|
 | 11659 | 구간 합 구하기 4 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11659)|
 | 11720 | 숫자의 합 | Solved| Class I| [Link](https://www.acmicpc.net/problem/11720)|
-| 11723 | 집합 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11723)|
+| 11723 | 집합 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11723)|
 | 11724 | 연결 요소의 개수 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11724)|
 | 11726 | 2 x n 타일링 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11726)|
 | 11727 | 2 x n 타일링 2 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11727)|
