@@ -20,7 +20,7 @@
 | 1330 | 두 수 비교하기 | Solved| Class I| [Link](https://www.acmicpc.net/problem/1330)|
 | 1389 | 케빈 베이컨의 6단계 법칙 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1389)|
 | 1436 | 영화감독 숌 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1436)|
-| 1463 | 1로 만들기 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1463)|
+| 1463 | 1로 만들기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1463)|
 | 1541 | 잃어버린 괄호 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1541)|
 | 1546 | 평균 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1546)|
 | 1620 | 나는야 포켓몬 마스터 이다솜 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1620)|
