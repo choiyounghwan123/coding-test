@@ -26,13 +26,13 @@
 | 1620 | 나는야 포켓몬 마스터 이다솜 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1620)|
 | 1654 | 랜선 자르기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1654)|
 | 1676 | 팩토리얼 0의 개수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1676)|
-| 1697 | 숨바꼭질 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1697)|
+| 1697 | 숨바꼭질 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1697)|
 | 1764 | 듣보잡 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1764)|
 | 1874 | 스택 수열 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1874)|
 | 1920 | 수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1920)|
 | 1927 | 최소 힙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1927)|
 | 1929 | 소수 구하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1929)|
-| 1931 | 회의실 배정 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1931)|
+| 1931 | 회의실 배정 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1931)|
 | 1966 | 프린터 큐 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1966)|
 | 1978 | 소수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1978)|
 | 2108 | 통계학 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2108)|
@@ -50,7 +50,7 @@
 | 2606 | 바이러스 | Solved| Class III| [Link](https://www.acmicpc.net/problem/2606)|
 | 2609 | 최대공약수와 최소공배수| Solved| Class II| [Link](https://www.acmicpc.net/problem/2609)|
 | 2630 | 색종이 만들기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/2630)|
-| 2667 | 단지번호붙이기 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/2667)|
+| 2667 | 단지번호붙이기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/2667)|
 | 2675 | 문자열 반복 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2675)|
 | 2739 | 구구단 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2739)|
 | 2741 | N 찍기 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2741)|
@@ -71,7 +71,7 @@
 | 6064 | 카잉 달력 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/6064)|
 | 7568 | 덩치 | Solved| Class II| [Link](https://www.acmicpc.net/problem/7568)|
 | 7569 | 토마토 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/7569)|
-| 7576 | 토마토 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/7576)|
+| 7576 | 토마토 | Solved| Class III| [Link](https://www.acmicpc.net/problem/7576)|
 | 7662 | 이중 우선순위 큐 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/7662)|
 | 8958 | OX퀴즈 | Solved| Class I| [Link](https://www.acmicpc.net/problem/8958)|
 | 9012 | 괄호 | Solved| Class II| [Link](https://www.acmicpc.net/problem/9012)|
@@ -101,7 +101,7 @@
 | 11047 | 동전 O | Solved| Class III| [Link](https://www.acmicpc.net/problem/11047)|
 | 11050 | 이항 계수 1 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11050)|
 | 11279 | 최대 힙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11279)|
-| 11286 | 절대값 힙 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11286)|
+| 11286 | 절대값 힙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11286)|
 | 11399 | ATM | Solved| Class III| [Link](https://www.acmicpc.net/problem/11399)|
 | 11403 | 경로 찾기 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11403)|
 | 11650 | 좌표 정렬하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11650)|
