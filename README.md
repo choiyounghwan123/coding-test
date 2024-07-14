@@ -37,7 +37,7 @@
 | 1978 | 소수 찾기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1978)|
 | 2108 | 통계학 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2108)|
 | 2164 | 카드2 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2164)|
-| 2178 | 미로 탐색 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/2178)|
+| 2178 | 미로 탐색 | Solved| Class III| [Link](https://www.acmicpc.net/problem/2178)|
 | 2231 | 분해합 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2231)|
 | 2292 | 벌집 | Solved| Class II| [Link](https://www.acmicpc.net/problem/2292)|
 | 2438 | 별 찍기 -1 | Solved| Class I| [Link](https://www.acmicpc.net/problem/2438)|
@@ -115,7 +115,7 @@
 | 11727 | 2 x n 타일링 2 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11727)|
 | 11866 | 요세푸스 문제 0 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11866)|
 | 14500 | 테트로미노 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/14500)|
-| 14940 | 쉬운 최단거리 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/14940)|
+| 14940 | 쉬운 최단거리 | Solved| Class III| [Link](https://www.acmicpc.net/problem/14940)|
 | 15829 | Hashing | Solved| Class II| [Link](https://www.acmicpc.net/problem/15829)|
 | 16928 | 뱀과 사다리 게임 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/16928)|
 | 17219 | 비밀번호 찾기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/17219)|
