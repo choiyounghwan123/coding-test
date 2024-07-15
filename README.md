@@ -18,7 +18,7 @@
 | 1259 | 팰린드롬수 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1259)|
 | 1260 | DFS와 BFS | Solved| Class III| [Link](https://www.acmicpc.net/problem/1260)|
 | 1330 | 두 수 비교하기 | Solved| Class I| [Link](https://www.acmicpc.net/problem/1330)|
-| 1389 | 케빈 베이컨의 6단계 법칙 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/1389)|
+| 1389 | 케빈 베이컨의 6단계 법칙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1389)|
 | 1436 | 영화감독 숌 | Solved| Class II| [Link](https://www.acmicpc.net/problem/1436)|
 | 1463 | 1로 만들기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1463)|
 | 1541 | 잃어버린 괄호 | Solved| Class III| [Link](https://www.acmicpc.net/problem/1541)|
@@ -103,7 +103,7 @@
 | 11279 | 최대 힙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11279)|
 | 11286 | 절대값 힙 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11286)|
 | 11399 | ATM | Solved| Class III| [Link](https://www.acmicpc.net/problem/11399)|
-| 11403 | 경로 찾기 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/11403)|
+| 11403 | 경로 찾기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/11403)|
 | 11650 | 좌표 정렬하기 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11650)|
 | 11651 | 좌표 정렬하기2 | Solved| Class II| [Link](https://www.acmicpc.net/problem/11651)|
 | 11654 | 아스키코드 | Solved| Class I| [Link](https://www.acmicpc.net/problem/11654)|
@@ -121,9 +121,9 @@
 | 17219 | 비밀번호 찾기 | Solved| Class III| [Link](https://www.acmicpc.net/problem/17219)|
 | 17626 | Four Squares | Solved| Class III| [Link](https://www.acmicpc.net/problem/17626)|
 | 18110 | solved.ac | Solved| Class II| [Link](https://www.acmicpc.net/problem/18110)|
-| 18111 | 마인크래프트 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/18111)|
+| 18111 | 마인크래프트 | Solved| Class III| [Link](https://www.acmicpc.net/problem/18111)|
 | 18870 | 좌표압축 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/18870)|
-| 21736 | 헌내기는 친구가 필요해 | Unsolved| Class III| [Link](https://www.acmicpc.net/problem/21736)|
+| 21736 | 헌내기는 친구가 필요해 | Solved| Class III| [Link](https://www.acmicpc.net/problem/21736)|
 | 25083 | 새싹 | Solved| Class I| [Link](https://www.acmicpc.net/problem/25083)|
 | 28702 | FizzBuzz | Solved| Class II| [Link](https://www.acmicpc.net/problem/28702)|
 | 27866 | 문자와 문자열 | Solved| Class I| [Link](https://www.acmicpc.net/problem/27866)|
