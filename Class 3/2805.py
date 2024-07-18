@@ -14,13 +14,13 @@ while start <= end:
     for length in lengths:
         if length-mid > 0:
             count += length-mid
-    print(count,mid)
 
-    if N < count:
+    if M <= count:
         start = mid+1
     else:
         end = mid-1
-print(start)
+
+print(end)
 
 
 

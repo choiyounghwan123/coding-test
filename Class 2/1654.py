@@ -6,11 +6,17 @@ K,N = map(int,sys.stdin.readline().split())
 res = 0
 lines = [int(sys.stdin.readline()) for _ in range(K)]
 
-for i in range(1,max(lines)+1):
+start, end = 1,max(lines)
+
+while start <= end:
+    mid = (start + end) // 2
     num = 0
     for line in lines:
-        num += line // i
+        num += line // mid
 
     if num >= N:
-        res = i
-print(res)
+        start = mid+1
+    else:
+        end = mid - 1
+
+print(end)
